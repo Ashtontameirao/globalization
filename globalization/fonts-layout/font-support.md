@@ -384,7 +384,7 @@ The user interface font changes are as follows:
 - Gadugi font: new font for Canadian Aboriginal Syllabics and Cherokee scripts
 - Microsoft JhengHei UI: new font for Traditional Chinese script
 - Microsoft YaHei UI: new font for Simplified Chinese script
-- Nirmala UI: new font for South Asian scripts (Bangla, Devanagari, Gujarati, Gurmukhi, Kannada, Malayalam, Odia, Sinhala, Tamil, Telugu)
+- Nirmala UI: new font for South Asian scripts (Bangla, Common Indic Number Forms, Devanagari, Gujarati, Gurmukhi, Kannada, Malayalam, Odia, Sinhala, Tamil, Telugu)
 - Segoe UI (certain weights): updated to add support for Arabic, Armenian, Georgian (Mkhedruli), Georgian Khutsuri, Hebrew scripts
 
 Among additional fonts added for previously supported scripts is the Urdu Typesetting font, which supports Arabic script in Nastaliq style (sometimes referred to as *Perso-Arabic script*).
