@@ -2,7 +2,7 @@
 title: Script and font support in Windows
 description: Discover the changes made to script and font support for major releases of Windows.
 author: pallep
-ms.date: 8/10/2023
+ms.date: 7/24/2026
 ---
 
 # Script and font support in Windows
@@ -39,7 +39,7 @@ The following table lists scripts will be supported in a Future Windows version,
 | Khitan Small Script*           | East Asia             | Microsoft Fangsong*   | Khitan |
 | Phaistos Disc*                 | Europe                | Segoe UI Historic     | Unknown |
 | Rumi Numerals*                 | Middle East           | Segoe UI Historic     | Numerals used for Rumi |
-| Sharada*                       | Indian subcontinent   | Nirmala UI            | All languages listed on Windows 11 to support Sharada Supplement |
+| Sharada*                       | Indian subcontinent   | Nirmala UI            | All languages listed on Windows 11 and to support Sharada Supplement |
 | Sharada Supplement*            | Indian subcontinent   | Nirmala UI            | Kashmiri |
 | Tai Yo*                        | Southeast Asia        | Microsoft Tai Yo*     | Tai Yo |
 | Tangut*                        | East Asia             | SimSun Tangut*        | Tangut |
